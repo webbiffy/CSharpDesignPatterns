@@ -1,0 +1,11 @@
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\obj\Debug\netcoreapp3.1\CSharpDesignPattern.csprojAssemblyReference.cache
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\obj\Debug\netcoreapp3.1\CSharpDesignPattern.AssemblyInfoInputs.cache
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\obj\Debug\netcoreapp3.1\CSharpDesignPattern.AssemblyInfo.cs
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\bin\Debug\netcoreapp3.1\CSharpDesignPattern.exe
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\bin\Debug\netcoreapp3.1\CSharpDesignPattern.deps.json
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\bin\Debug\netcoreapp3.1\CSharpDesignPattern.runtimeconfig.json
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\bin\Debug\netcoreapp3.1\CSharpDesignPattern.runtimeconfig.dev.json
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\bin\Debug\netcoreapp3.1\CSharpDesignPattern.dll
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\bin\Debug\netcoreapp3.1\CSharpDesignPattern.pdb
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\obj\Debug\netcoreapp3.1\CSharpDesignPattern.dll
+C:\Users\gfelecia\source\repos\CSharpDesignPatterns\CSharpDesignPattern\CSharpDesignPattern\obj\Debug\netcoreapp3.1\CSharpDesignPattern.pdb
