@@ -15,6 +15,14 @@ namespace CSharpDesignPattern
             builder.AddChild("li", "world");
 
             Console.WriteLine(builder.ToString());
+
+            builder.Clear();
+
+            builder
+                .AddChild("li", "hi")
+                .AddChild("li", "web");
+
+            Console.WriteLine(builder.ToString());
         }
     }
 }
